@@ -1,0 +1,239 @@
+# Authors
+
+Paul Gauthier:
+  name        : "Paul Gauthier"
+  avatar      : "/assets/images/people/Gauthier.png"
+  email       : "ppg@princeton.edu"
+  bio         : "Associate Research Plant Physiologist."
+  github      : "PaulPGauthier"
+  location    : "Princeton, NJ"
+
+Drew Gower:
+  name        : "Drew Gower"
+  email       : "gower@princeton.edu"
+  bio         : "PhD Candidate."
+  avatar      : "/assets/images/people/Gower.png"
+  twitter     : "DBGower"
+  linkedin    : "drew-gower-5b8237a9"
+  github      : "dbg6y"
+  skype       : "drew.gower"
+  location    : "Ithaca, NY"
+  cv          : "/assets/files/CV_Gower.pdf"
+
+Cynthia Gerlein-Safdi:
+  name        : "Cynthia Gerlein-Safdi"
+  email       : "cgerlein@princeton.edu"
+  bio         : "Michigan Society of Fellows Postdoctoral Scholar"
+  avatar      : "/assets/images/people/Gerlein-Safdi.png"
+  twitter     : "CGerleinSafdi"
+  linkedin    : "cynthia-gerlein-safdi-a13b6a9a"
+  github      : "cgerlein"
+  skype       : "cynthia.gerlein"
+  location    : "Ann Arbor, MI"
+  uri         : "https://cgerleinsafdi.engin.umich.edu/"
+
+Abinash Bhattachan:
+  name      : "Abinash Bhattachan"
+  avatar    : "/assets/images/people/Bhattachan.jpg"
+  bio       : "MS Graduate, Indiana University"
+  
+Garth Lindner:
+  name      : "Garth Lindner"
+  avatar    : "/assets/images/people/Lindner.jpg"
+  bio       : "MS Graduate, Indiana University"
+
+Ekomwa Akuwam:
+  name      : "Ekomwa Akuwam"
+  avatar    : "/assets/images/people/Akuwam.jpg"
+  bio       : "Field Assistant, Mpala Research Center"
+  location  : "Laikipia, Kenya"
+
+Boniface Mukoma:
+  name      : "Boniface Mukoma"
+  avatar    : "/assets/images/people/Mukoma.jpg"
+  bio       : "Laboratory Assistant, Mpala Research Center"
+  location  : "Laikipia, Kenya"
+
+Stephen Good:
+  name      : "Stephen Good"
+  avatar    : "/assets/images/people/Good.jpg"
+  bio       : "PhD Graduate, Princeton University"
+  location  : "Corvallis, OR"
+
+Alex Lester:
+  name      : "Alex Lester"
+  avatar    : "/assets/images/people/Lester.jpg"
+  bio       : "MS Graduate, Princeton University"
+  location  : "Washington, DC"
+
+John Gitonga:
+  name      : "John Gitonga"
+  bio       : "Lab Manager"
+  avatar    : "assets/images/people/Gitonga.jpg"
+  location  : "Laikipia, Kenya"
+
+Kaiyu Guan:
+  name      : "Kaiyu Guan"
+  bio       : "Assistant Professor"
+  uri       : "http://nres.illinois.edu/directory/kaiyug"
+  avatar    : "assets/images/people/Guan.jpg"
+  location  : "Urbana-Champaign, Illinois"
+
+Moses Kioko Musyoka:
+    name        : "Moses Kioko Musyoka"
+    bio         : "Lab Assistant"
+    location    : "Laikipia, Kenya"
+    avatar      : "assets/images/people/Musyoka.jpg"
+
+Trenton Franz:
+    name        : "Trenton Franz"
+    bio         : "Assistant Professor"
+    avatar      : "assets/images/people/Franz.jpg"
+    location    : "Lincoln, Nebraska"
+    uri         : "http://tfranz2.wix.com/trenton-franz"
+
+Lixin Wang:
+    name        : "Lixin Wang"
+    location    : "Indianapolis, Indiana"
+    bio         : "Assistant Professor"
+    uri         : "http://earthsciences.iupui.edu/~lxwang/Lixin_Wang/Home.html"
+    avatar      : "assets/images/people/Wang_L.jpg"
+
+Lizzie King:
+    name        : "Lizzie King"
+    location    : "Athens, Georgia"
+    bio         : "Assistant Professor"
+    uri         : "http://kinglab.uga.edu/"
+    avatar      : "assets/images/people/King.jpg"
+
+Molly O'Connor:
+    name        : "Molly O'Connor"
+    location    : "San Diego, California"
+    avatar      : "assets/images/people/OConnor.jpg"
+
+Frances O'Donnell:
+    name        : "Frances O'Donnell"
+    location    : "Auburn, Alabama"
+    avatar      : "assets/images/people/FODonnell.jpg"
+    bio         : "Assistant Professor"
+
+Adam Wolf:
+    name        : "Adam Wolf"
+    location    : "Princeton, NJ"
+    avatar      : "assets/images/people/Wolf.jpg"
+    uri         : "http://www.arable.com/"
+    bio         : "CEO, Arable Labs"
+    linkedin    : "adamatarable"
+
+Keir Soderberg:
+    name        : "Keir Soderberg"
+    avatar      : "assets/images/people/Soderberg.png"
+    location    : "Bethesda, MD"
+    bio         : "Senior Scientist at S.S. Papadopulos & Associates, Inc."
+    linkedin    : "keir-soderberg-0b15107"
+
+Lyndon Estes:
+    name        : "Lyndon Estes"
+    location    : "Worchester, MA"
+    avatar      : "assets/images/people/Estes.jpg"
+    bio         : "Assistant Professor"
+
+
+Stephanie Debats:
+    name        : "Stephanie Debats"
+    uri         : "http://stephaniedebats.princeton.edu/"
+    location    : "San Francisco, CA"
+    avatar      : "assets/images/people/Debats.jpg"
+    bio         : "Computer Vision Research Scientist at Descartes Labs"
+
+Marcus Spiegel:
+    name        : "Marcus Spiegel"
+    location    : "Princeton, NJ"
+    avatar      : "assets/images/people/Spiegel.jpg"
+    bio         : "Undergraduate Thesis Student"
+
+Hilary Wayland:
+    name        : "Hilary Wayland"
+    avatar      : "assets/images/people/Wayland.jpg"
+    bio         : "Environmental Associate at Ramboll Environ"
+    linkedin    : "hilarywayland"
+    location    : "Philadelphia, PA"
+
+Keita DeCarlo:
+    name        : "Keita DeCarlo"
+    avatar      : "assets/images/people/DeCarlo.jpg"
+    bio         : "PhD Student"
+    location    : "Princeton, NJ"
+    cv          : "/assets/files/DeCarlo_CV.pdf"
+
+Ben Siegfried:
+    name        : "Ben Siegfried"
+    avatar      : "assets/images/people/Siegfried.jpg"
+    bio         : "CTO, Arable Labs"
+    linkedin    : "ben-siegfried-222564124"
+    location    : "Oakland, CA"
+
+Elliot Chang:
+    name        : "Elliot Chang"
+    avatar      : "assets/images/people/Chang.jpg"
+    bio         : "PhD Student @ UC Berkeley"
+    location    : "Berkeley, CA"
+
+Julia Signell:
+    name        : "Julia Signell"
+    bio         : "Junior Developer, Continuum Analytics"
+    location    : "Philadelphia, PA"
+    avatar      : "assets/images/people/Signell.jpg"
+    uri         : "https://www.continuum.io"
+    linkedin    : "julia-signell-8a948a88"
+
+Natasha Krell:
+    name        : "Natasha Krell"
+    bio         : "PhD Student"
+    email       : "nkrell@ucsb.edu"
+    github      : "ntkrell"    
+    twitter     : "natashakre"
+    location    : "Santa Barbara, CA"
+    avatar      : "assets/images/people/Krell.jpg"
+    linkedin    : "natashakrell"
+    cv          : "/assets/files/Krell_CV.pdf"
+
+Cascade Tuholske:
+    name        : "Cascade Tuholske"
+    bio         : "PhD Student"
+    email       : "cascade@umail.ucsb.edu"
+    twitter     : "tuholske"
+    linkedin    : "cascade-tuholske"
+    avatar      : "assets/images/people/Tuholske.jpg"
+    location    : "Santa Barbara, CA"
+    cv          : "/assets/files/Tuholske_CV_F17.pdf"
+    uri         : "https://www.tuholske.com"
+
+Marc Mayes:
+    name        : "Marc Mayes"
+    location    : "Santa Barbara, CA & <br> Princeton, NJ"
+    avatar      : "assets/images/people/Mayes.jpg"
+
+Ryan Avery:
+    name        : "Ryan Avery"
+    bio         : "PhD Student"
+    email       : "ravery@ucsb.edu"
+    github      : "rbavery"
+    location    : "Santa Barbara, CA"
+    avatar      : "assets/images/people/Avery.jpg"
+    linkedin    : "ryan-avery-75b165a8"
+    cv          : "/assets/files/RAvery_CV.pdf"
+
+Rachel Green:
+    name        : "Rachel Green"
+    bio         : "PhD Student"
+    email       : "rgreen@ucsb.edu"
+    github      : "4rachelgreen"
+    location    : "Santa Barbara, CA"
+    avatar      : "assets/images/people/Green.jpg"
+    linkedin    : "rachel-green-b79412129/"
+
+Noah Spahn:
+    name        : "Noah Spahn"
+    location    : "Santa Barbara, CA"
+    avatar      : "assets/images/people/spahn.png"

@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "News"
+    url: /recent/
+  - title: "Our Team"
+    url: /people/
+  - title: "Opportunities"
+    url: /opportunities/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+    url: /assets/files/KCaylor_CV.pdf
+  - title: "gScholar <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+    url: https://scholar.google.com/citations?user=VGaoB64AAAAJ
+  - title: "Site Archive"
+    url: /year-archive/
