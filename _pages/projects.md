@@ -7,7 +7,6 @@ author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_0984.jpg
-<<<<<<< HEAD
 excerpt: "Research themes and associated past and current projects."
 ---
 
@@ -44,32 +43,4 @@ Projects on this research theme include:<br>
 [Establishing process links between streamflow, sediment transport/storage, and biogeochemical processing of mercury](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1225630). Funded by [National Science Foundation Geomorphology and Land-use Dynamics](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13690), **M. Singer (PI)**, J.D. Blum, M. Marvin-DiPasquale, _2013-2016_
 
 [Tracking hydraulic mining sediments from the Sierra Piedmont into flood bypasses of the Sacramento Valley, CA](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0521663). Funded by [National Science Foundation Geography and Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034), **M. Singer (PI)**, L.A. James, R. Aalto, T. Dunne, _2005-2008_
-
-
- 
-=======
-excerpt: "Here is a list of our past and current projects."
----
-
-## Ecohydrology of water-limited environments
-
-
-
-
-
-## East Africa
-
-
-## Dryland Landscapes
-
-
-
-## Environmental Mercury Dynamics 
->>>>>>> origin/master
-
-
-
-
-
-
 
