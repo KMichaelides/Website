@@ -1,29 +1,20 @@
 ---
 layout: splash
 permalink: /drylands/
-title: "Drylands"
+title: "Dryland Hydrology and Landscape Evolution"
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/WG.jpg
-excerpt: 'Improved understanding comes from detailed observation.<br /><br /><br /><br /><br /><br />'
-tags:
-    - Environmental Sensing
-    - Arable
+  overlay_image: /assets/images/israel.jpg
+excerpt: 'Studying the cascade from climate to water cycle to surface processes to landforms in drylands.<br /><br /><br /><br /><br /><br />'
+
 ---
 
-{% include group-by-array collection=site.posts field="tags" %}
+Little is known about the interaction between climatically expressed hydrology and topographic evolution of dryland basins because the processes by which they are shaped occur so infrequently and typically on timescales longer than human lives. In semi-arid to arid drainage basins, the primary driver of changes at or near the Earth's surface is convective rainstorms. These storms are short-lived and small-in-area relative to drainage basin size, yet they dominate runoff generation and groundwater recharge, and control both water supply and flood risk to marginal communities of people. They also govern the availability of water to vegetation and other ecology, as well as spatial patterns of sediment, nutrient, and contaminant transport and deposition on local to basin scales. How would dryland landscapes (vegetation, water storage, and landforms) evolve to a wetter/drier climate regime or one with increased/decreased storminess? This information gap creates great challenges for predicting expected hydrologic patterns and processes under a shifting climate within dryland drainage basins, thus limiting research advances in environments occupying 41% of the Earth’s surface and home to 1/3 of the world’s population. 
 
-New ideas and insight often require new data and observations. Sometimes those observations require the development of entirely new measurements. In other cases, the breakthrough comes from data that are collected more often, or in more places. We're taking advantage of the dramatically low costs of embedded computing and ubiquity of cellular data to extend the footprint of environmental observation. A few years ago, part of this effort was spun out of the University by [Adam Wolf]({{ site.baseurl }}{% link _people/wolf.md %}) and [Ben Siegfried]({{ site.baseurl }}{% link _people/siegfried.md %}) and now operates as [Arable Labs, Inc.](https://www.arable.com). 
+We have been working to better understand the climate drivers in dryland environments and the Earth surface responses to heterogeneous runoff generation with a broader goal of characterizing the evolving water balance and landscape evolution under climate change. We have made contributions to the development of new modeling tools for simulating the spatial and temporal effects of individual rainstorms over the landscape and their influence on soil moisture, runoff, streamflow, groundwater recharge, and evapotranspiration. We have also compiled new topographic databases of the world's drainage basins that enabled us to identify distinct and unprecedented climatic signatures within topography that segregate by regional aridity.      
 
+## Projects on this research theme include:<br>
+Climatic controls on river topography. PhD Project of [Shiuan-An (Andrew) Chen]({% link _people/chen.md %}), Unfunded. 
 
-## News and Updates:
-
-{% for tag in page.tags %}
-    {% for post in site.posts %}
-        {% if post.tags contains tag %}
-            {% include archive-single.html %}
-        {% endif %}
-    {% endfor %}
-{% endfor %}
-
+[Drought Resilience In East African dryland Regions (DRIER)](https://research-information.bristol.ac.uk/en/projects/drought-resilience-in-east-african-dryland-regions-drier(353598a8-4600-4c0f-8077-1567751f639e).html). Funded by [The Royal Society](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh_NzSj9rkAhUEVdMKHd7iBOIYABAAGgJ3Yg&ohost=www.google.com&cid=CAESEeD29pTS62bLu8xAD4rqnJXp&sig=AOD64_3KTFEPnRAOrXCuiKSi4FgJpztIhA&q=&ved=2ahUKEwi9q9XSj9rkAhXkSRUIHVnRDSMQ0Qx6BAgfEAE&adurl=), K. Michaelides, **M. Singer (co-PI)**, M. Cuthbert, D. Mitchell, R. Rosolem, _2019-2022_

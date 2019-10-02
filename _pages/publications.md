@@ -5,21 +5,32 @@ permalink: /publications/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Sac_Float4_060.jpg
+  overlay_image: /assets/images/SacFloat.jpg
 excerpt: "Here is a list of publications by the research group."
 ---
 
 #### Bold indicates authorship by SCI-CLAWPS group leader ([Singer]({% link _people/singer.md %})). Advisee student and postdoc work denoted by *. Journal is listed for invited revision.
 
+## In Preparation (for submission within the current year)
+
+47) **Singer, M.B.**, *Quaglia, R., Jones, O., Michaelides, K. (In Preparation); STORM 2.0: An operational decision-support tool for exploring the impacts of climate and climate change 
+
+46) *Warter, M., **Singer, M.B.**, Roberts, D., Cuthbert, M.O., *Sabathier, R., Stella, J., Caylor, K. (In Preparation); Onset, propagation, and recession of the 2012-2016 drought in Southern California 	
+
+45) *Sabathier, R., **Singer, M.B.**, Roberts, D., Caylor, K., Stella, J. (In Preparation); Vegetation response to climate-controlled water availability in the
+Arizona desert
+
+44) *Adloff, M., Mitchell, D., Michaelides, K., **Singer, M.B.**, Funk, C., *Mehrnegar, N. (In Preparation); Climate trends in arid East Africa and implications for water resources	
+
 ## In Review
 
 43) *Quichimbo, A., **Singer, M.B.**, Cuthbert, M.O. (In Review); Stream-aquifer interactions of ephemeral streams in drylands 	
 
-42) *Mehrnegar, N., Jones, O., **Singer, M.B.**, Schumacher, M., Bates, P., Forootan, E. (In Review); Comparing global hydrological models and merging them with GRACE data by dynamic model data averaging (DMDA) 	
+42) *Mehrnegar, N., Jones, O., **Singer, M.B.**, Schumacher, M., Bates, P., Forootan, E. (In Review); Comparing global hydrological models and merging them with GRACE data by dynamic model data averaging (DMDA), in revision for _Advanced in Water Resources_  	
 
 41) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic signatures within the world’s rivers
 
-40) *Sargeant, C.I., **Singer, M.B.**, Vallet-Coulomb, C. (In Review); Identification of Source-water Oxygen isotopes in trees Toolkit (ISO-Tool) for deciphering historical water use by forest trees, Water Resources Research	
+40) *Sargeant, C.I., **Singer, M.B.**, Vallet-Coulomb, C. (In Review); Identification of Source-water Oxygen isotopes in trees Toolkit (ISO-Tool) for deciphering historical water use by forest trees, _Water Resources Research_	
 
 ## 2019
 
@@ -66,7 +77,7 @@ excerpt: "Here is a list of publications by the research group."
   _Geomorphic Approaches to Integrated Floodplain Management of Lowland Fluvial Systems in 
    North America and Europe_, pp.53-85, Springer New York, doi: [10.1007/978-1-4939-2380-9_4](http://link.springer.com/chapter/10.1007/978-1-4939-2380-9_4). [<span style="color:red">pdf</span>](/assets/pdfs/publications/Singer_bookchapter_2015.pdf)	  	
 
-#### The following paper has received media attention. It was also selected as an [AGUniverse Publication Highlight (9 April, Volume 6, Issue 7, 2015)](https://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1443463157&message_id=9817918&user_id=AGU_&group_id=985919&jobid=27074328).
+#### The following paper has received [media attention](/media/). It was also selected as an [AGUniverse Publication Highlight (9 April, Volume 6, Issue 7, 2015)](https://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=1443463157&message_id=9817918&user_id=AGU_&group_id=985919&jobid=27074328).
 
 24) *Slater, L.J., **Singer, M.B.**, Kirchner, J.W. (2015); Hydrologic versus geomorphic drivers of trends in flood hazard. _Geophysical Research Letters_, doi: [10.1002/2014GL062482](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062482/abstract). [<span style="color:red">pdf</span>](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062482/pdf)		
    

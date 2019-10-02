@@ -6,13 +6,14 @@ permalink: /media/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/IMG_0984.jpg
+  overlay_image: /assets/images/TuolumneRiver.png
 excerpt: "Media and blogosphere attention for research by our group."
 ---
 
 *Chen, S-A., Michaelides, K., Grieve, S.W.D., **Singer, M.B.** (2019); Aridity is expressed in river topography profiles globally, _Nature_, doi: [	10.1038/s41586-019-1558-8]( https://www.nature.com/articles/s41586-019-1558-8). [<span style="color:red">pdf</span>](http://nature.com)
 
-[]()
+[Long Room](https://www.longroom.com/discussion/1629783/new-research-identifies-a-climate-signature-in-rivers-globally)
+[Business Standard](http://ct.moreover.com/?a=40243098132&p=1pl&v=1&x=gAdO5tCCd37gGu8SWVY0-w)
 [Science Daily](http://ct.moreover.com/?a=40203925136&p=1pl&v=1&x=6WjL5nZYyn2o7ieqf9n2qg)<br>
 [UPI](http://ct.moreover.com/?a=40205458272&p=1pl&v=1&x=bpNeKCojBHs90769Lp9lDg)<br>
 [PhysicsWorld](http://ct.moreover.com/?a=40212377230&p=1pl&v=1&x=ph2qm4LOuG1_9KU4qeyPNQ)<br>
@@ -127,14 +128,4 @@ excerpt: "Media and blogosphere attention for research by our group."
 [UCSB Press Release](http://www.ia.ucsb.edu/pa/display.aspx?pkey=3136)<br>
 [University of St Andrews Press Release](http://www.st-andrews.ac.uk/news/archive/2013/title,229402,en.php)<br>
  
-
- 
-
- 
-
-
-
-
-
-
 

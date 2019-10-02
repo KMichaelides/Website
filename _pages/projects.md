@@ -1,46 +1,36 @@
 ---
 layout: splash
 title: "SCI-CLAWPS Projects"
-author: Michael Singer 
 permalink: /projects/
 author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_0984.jpg
 excerpt: "Research themes and associated past and current projects."
+
+feature_row:
+  - image_path: /assets/images/Rhone.jpg
+    title: "Ecohydrology of Water-Limited Environments"
+    type: "left"
+    excerpt: "Understanding links between climate, water, and plants."
+    url: "/cwp/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/WG.jpg
+    title: "East Africa Water Scarcity and Food Insecurity"
+    type: "right"
+    excerpt: "Investigating land surface processes and form in arid landscapes."
+    url: "/cwl/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/yuba.jpg
+    title: "Evolution of Dryland Landscapes"
+    type: "left"
+    excerpt: "Exploring the controls on river flows, sediments, and contaminants."
+    url: "/cws/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/yuba.jpg
+    title: "Environmental Mercury Dynamics"
+    type: "right"
+    excerpt: "Exploring the controls on river flows, sediments, and contaminants."
+    url: "/cws/"
+    btn_label: "Learn More"
 ---
-
-## Ecohydrology of Water-Limited Environments
-Climate dynamically controls water availability to plants. Fluctuations in temperature and precipitation affect the relative volumes of water stored in different terrestrial storage reservoirs (e.g., saturated v. unsaturated zones). Critically, shifts in climate affect the relative availability of these water sources to vegetation with potentially irreversible consequences. In many ecosystems, plant-available water is becoming limited as soils dry out due to lower precipitation, as evaporation rises under warmer temperatures, and as water tables decline. For plant species adapted to the range of water availability for a climate regime, a long-term decrease may prove damaging or fatal, particularly to species that are vulnerable to water stress. Increases in the spatial footprint of climatically induced water stress could drive shifts in species composition and ecological functioning over large areas of the globe. We are investigating the links between climate, water availability, and the ecohydrology of water-limited deciduous broadleaf forests, especially in riparian zones subject to Mediterranean climate regimes because these important biomes serve as ‘canaries in the coal mine’, providing a window into the responses we may expect to see across a wider range of forest ecosystems that are evolving toward hotter, drier climates. We continue to expand this research to address the expression of trends in water availability across climate gradients and to forecast the ecohydrological effects of a warming/drying climate over coming decades.
-
-Projects on this research theme include:<br>
-[Understanding and assessing riparian habitat vulnerability to drought-prone climate regimes on Department of Defense bases in the Southwestern USA](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/RC18-1006). Funded by the US Department of Defense's [Strategic Environmental Research and Development Program (SERDP)](https://www.serdp-estcp.org/), **M. Singer (PI)**, K. Caylor, J. Stella, _2018-2022_
-
-[Impacts of dynamic, climate-driven water availability on tree water use and health in Mediterranean riparian forests](https://nsf.gov/awardsearch/showAward?AWD_ID=1700555). Funded by [National Science Foundation Hydrologic Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13684), **M. Singer (PI)**, J. Stella, K. Caylor, _2017-2020_
-
-[Linking basin-scale, stand-level, and individual tree water stress indicators for groundwater-dependent riparian forests in multiple-use river basins](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1660490). Funded by [National Science Foundation Geography and Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034), J. Stella, **M. Singer (co-PI)**, D. Roberts, _2017-2020_
-
-Assessing riparian forest water sources in the Santa Clara River basin. Funded by [The Nature Conservancy](https://www.nature.org/en-us/), **M. Singer (PI)**, J. Stella, _2018-2020_
-
-## East Africa Water Scarcity and Food Insecurity
-Water scarcity, defined here as a deficit in the amount of water available to humans, impacts many critical sectors of society including water supply, food security, land use, hydro-electric energy, and health. Prolonged periods of extreme water scarcity induced by drought are detrimental to regional economies through crop and livestock loss. This threatens food security in rural communities, and makes politically unstable regions more vulnerable to conflict, terrorism, and mass migration, with far-reaching impacts on society and the environment. The drylands of the Horn of Africa region depend on seasonal rainfall to sustain subsistence (primarily rainfed) agriculture, so they are extremely vulnerable to food insecurity and associated economic losses during drought conditions when the rains are well below average. These rural communities of Horn of Africa Drylands (HAD), tend to have low socio-economic levels, and low adaptive capacity to climatic shocks, such that recent severe droughts have dramatically increased food insecurity. Despite the proliferation of improved climate information for the region, and resulting improvements in early warnings, major uncertainties remain about the links between key seasonal climate variables and water scarcity, and the consequential impacts to livelihoods and wellbeing. A major challenge in HAD is to improve understanding of the spatiotemporal distribution of future risks to rural communities that arise from water scarcity and food insecurity under climate change, and to support these communities in co-developing climate services, strategies, and policies for climate adaptation and resilience. We are analyzing a wide range of historical information and future climate projections, as well as creating new decision-support tools, all with strong end-user participation for improving rural livelihoods and engender more societal resilience in this region. 
-
-Projects on this research theme include:<br>
-[Drought Resilience In East African dryland Regions (DRIER)](https://research-information.bristol.ac.uk/en/projects/drought-resilience-in-east-african-dryland-regions-drier(353598a8-4600-4c0f-8077-1567751f639e).html). Funded by [The Royal Society](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh_NzSj9rkAhUEVdMKHd7iBOIYABAAGgJ3Yg&ohost=www.google.com&cid=CAESEeD29pTS62bLu8xAD4rqnJXp&sig=AOD64_3KTFEPnRAOrXCuiKSi4FgJpztIhA&q=&ved=2ahUKEwi9q9XSj9rkAhXkSRUIHVnRDSMQ0Qx6BAgfEAE&adurl=), K. Michaelides, **M. Singer (co-PI)**, M. Cuthbert, D. Mitchell, R. Rosolem, _2019-2022_
-
-Mobile phone App Development for Drought Adaptation in Drylands (MADDAD). Funded by [UK Research and Innovation Global Challenges Research Fund (GCRF)](https://www.ukri.org/research/global-challenges-research-fund/), K. Michaelides, **M. Singer (co-PI)**, M. Cuthbert, D. Mitchell, R. Rosolem, _2019-2021_
-
-## Evolution of Dryland Landscapes
-Little is known about the interaction between climatically expressed hydrology and topographic evolution of dryland basins because the processes by which they are shaped occur so infrequently and typically on timescales longer than human lives. In semi-arid to arid drainage basins, the primary driver of Earth surface change is convective rainstorms, which are short-lived and small-in-area relative to drainage basin size, yet they dominate runoff generation and groundwater recharge, and control both water supply and flood risk to marginal communities of people. They also govern the availability of water to vegetation and other ecology, as well as spatial patterns of sediment, nutrient, and contaminant transport and deposition on local to basin scales. The problem of characterizing this rainfall heterogeneity grows when research applications demand plausible rainfall characterizations resulting from climate change. For example, how would dryland landscapes evolve to a wetter or drier climate regime or one with increased storminess? This information gap creates great challenges for predicting expected hydrologic patterns and processes under a shifting climate within dryland drainage basins, thus limiting research advances in environments occupying 41% of the Earth’s surface and home to 1/3 of the world’s population. We have been working to better understand the climate drivers in dryland environments and the Earth surface responses to heterogeneous runoff generation with a broader goal of characterizing the evolving water balance and landscape evolution under climate change.  
-
-Projects on this research theme include:<br>
-Climatic controls on river topography. PhD Project, Unfunded. 
-
-## Environmental Mercury Dynamics 
-Mining has a very long-lasting impact in landscapes. This may manifest as topographic transformation that affects runoff generation, flood wave timing, and inundation. It may also involve the introduction of sediment-bound pollutants that undergo biogeochemical transformation to more toxic forms under hydrologic conditions that are suitable for certain bacterial communities. The 19th C. Gold Rush generated both physical and chemical legacies of great consequence to California. The industrial-scale process of hydraulic mining in the Sierra Nevada foothills displaced 1.1 billion m3 of sediment, filling river valleys, and creating anthropogenic fans composed of mine tailings that grade all the way to the Central Valley. We are studying the complex set of processes linking the physical, chemical, and biological environment to better understand the mechanisms and processes by which Hg enters food webs in watersheds.     
-
-Projects on this research theme include:<br>
-[Establishing process links between streamflow, sediment transport/storage, and biogeochemical processing of mercury](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1225630). Funded by [National Science Foundation Geomorphology and Land-use Dynamics](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13690), **M. Singer (PI)**, J.D. Blum, M. Marvin-DiPasquale, _2013-2016_
-
-[Tracking hydraulic mining sediments from the Sierra Piedmont into flood bypasses of the Sacramento Valley, CA](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0521663). Funded by [National Science Foundation Geography and Spatial Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505034), **M. Singer (PI)**, L.A. James, R. Aalto, T. Dunne, _2005-2008_
-

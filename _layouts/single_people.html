@@ -12,35 +12,6 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% comment %}
-=======================
-The following part extracts all the years from publications and gets a list sorted in reverse order
-=======================
-{% endcomment %}
-{% assign rawyears = "" %}
-{% for publication in site.publications %}
-    {% assign tyears = publication.year | join:'|' | append:'|' %}
-    {% assign rawyears = rawyears | append:tyears %}
-{% endfor %}
-{% assign rawyears = rawyears | split:'|' | sort: 'first' %}
-
-{% comment %}
-=======================
-The following part removes dulpicated years and invalid years like blank year.
-=======================
-{% endcomment %}
-
-{% assign publication_years = "" %}
-{% for year in rawyears %}
-    {% if year != "" %}
-        {% unless publication_years contains year %}
-            {% assign publication_years = publication_years | join:'|' | append:'|' |
-            append:year | split:'|' %}
-        {% endunless %}
-    {% endif %}
-{% endfor %}
-{% assign sorted_years = publication_years | sort | reverse %}
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -108,9 +79,9 @@ The following part removes dulpicated years and invalid years like blank year.
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
       </footer>
-
       {% if page.share %}{% include social-share.html %}{% endif %}
 
+     
     </div>
 
     {% if site.comments.provider and page.comments %}
@@ -132,3 +103,5 @@ The following part removes dulpicated years and invalid years like blank year.
     </div>
   {% endif %}
 </div>
+
+

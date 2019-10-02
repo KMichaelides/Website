@@ -5,7 +5,7 @@ permalink: /tools/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/fremontweir.jpeg
+  overlay_image: /assets/images/Sac_Float4_025.jpg
 excerpt: "Here is a list of tools developed by the research group."
 ---
 

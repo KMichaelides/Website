@@ -2,8 +2,8 @@
 main:
   - title: "People"
     url: /people/
-  - title: "Projects"
-    url: /projects/
+  - title: "Research Themes"
+    url: /themes/
   - title: "Publications"
     url: /publications/
   - title: "Tools"
