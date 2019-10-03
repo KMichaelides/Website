@@ -13,6 +13,8 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for submission within the current year)
 
+48) *Kipkemoi, I., Michaelides, K., **Singer, M.B.**, Rosolem, R. (In Preparation); Climatic expression of rainfall on soil moisture dynamics in drylands 	
+
 47) **Singer, M.B.**, *Quaglia, R., Jones, O., Michaelides, K. (In Preparation); STORM 2.0: An operational decision-support tool for exploring the impacts of climate and climate change 
 
 46) *Warter, M., **Singer, M.B.**, Roberts, D., Cuthbert, M.O., *Sabathier, R., Stella, J., Caylor, K. (In Preparation); Onset, propagation, and recession of the 2012-2016 drought in Southern California 	
