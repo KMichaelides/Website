@@ -15,8 +15,8 @@ excerpt: "Here is a list of publications by the research group."
 
 48) *Kipkemoi, I., Michaelides, K., **Singer, M.B.**, Rosolem, R. (In Preparation); Climatic expression of rainfall on soil moisture dynamics in drylands 	
 
-47) **Singer, M.B.**, *Quaglia, R., Jones, O., Michaelides, K. (In Preparation); STORM 2.0: An operational decision-support tool for exploring the impacts of climate and climate change 
-
+47) **Singer, M.B.**, *Quaglia, R., Jones, O., Michaelides, K. (In Preparation); STORM 2.0: A simple decision-support tool for exploring the impacts of climate and climate change at or near the land surface
+ 
 46) *Warter, M., **Singer, M.B.**, Roberts, D., Cuthbert, M.O., *Sabathier, R., Stella, J., Caylor, K. (In Preparation); Onset, propagation, and recession of the 2012-2016 drought in Southern California 	
 
 45) *Sabathier, R., **Singer, M.B.**, Roberts, D., Caylor, K., Stella, J. (In Preparation); Vegetation response to climate-controlled water availability in the
@@ -30,7 +30,7 @@ Arizona desert
 
 42) *Mehrnegar, N., Jones, O., **Singer, M.B.**, Schumacher, M., Bates, P., Forootan, E. (In Review); Comparing global hydrological models and merging them with GRACE data by dynamic model data averaging (DMDA), in revision for _Advanced in Water Resources_  	
 
-41) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic signatures within the world’s rivers
+41) **Singer, M.B.**, Grieve, S.W.D., *Chen, S-A, Michaelides, K. (In Review); Climatic signatures within the world’s drainage basin morphometrics
 
 40) *Sargeant, C.I., **Singer, M.B.**, Vallet-Coulomb, C. (In Review); Identification of Source-water Oxygen isotopes in trees Toolkit (ISO-Tool) for deciphering historical water use by forest trees, _Water Resources Research_	
 

@@ -132,6 +132,8 @@ Cristina Evans, PhD (Primary), [Department of Earth and Environmental Sciences](
 
 [Manny Gabet](http://www.sjsu.edu/geology/people/faculty/gabet/index.html), [Department of Geology](http://www.sjsu.edu/geology/), [San Jose State University](http://www.sjsu.edu/)<br>
 
+[James Kirchner](https://usys.ethz.ch/en/people/profile.james-kirchner.html), [Dept. of Environmental Systems Science](http://www.usys.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html)<br>
+
 [Martin Tsui](https://biology.uncg.edu/people/martin-tsz-ki-tsui/), [Department of Biology](https://biology.uncg.edu/), [University of North Carolina Greensboro](https://uncg.edu/)<br>
 
 [Lee Harrison](http://scholar.google.com/citations?user=nXkb7n0AAAAJ&hl=en), [NOAA Marine Fisheries](https://swfsc.noaa.gov/)<br>
