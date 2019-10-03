@@ -13,6 +13,8 @@ excerpt: "Here is a list of publications by the research group."
 
 ## In Preparation (for submission within the current year)
 
+49) *Kibler, C., Schmidt, C., Roberts, D., **Singer, M.B.**, Stella, J. (In Preparation); Detecting riparian forest decline during the 2012-2017 California drought from remotely sensed hyperspectral aerial imagery 	
+
 48) *Kipkemoi, I., Michaelides, K., **Singer, M.B.**, Rosolem, R. (In Preparation); Climatic expression of rainfall on soil moisture dynamics in drylands 	
 
 47) **Singer, M.B.**, *Quaglia, R., Jones, O., Michaelides, K. (In Preparation); STORM 2.0: A simple decision-support tool for exploring the impacts of climate and climate change at or near the land surface
