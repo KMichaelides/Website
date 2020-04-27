@@ -1,28 +1,16 @@
 # Authors
 
-Ryan Avery:
-    name        : "Ryan Avery"
-    bio         : "PhD Student"
-    email       : "ravery@ucsb.edu"
-    github      : "rbavery"
-    location    : "Santa Barbara, CA"
-    avatar      : "assets/images/people/Avery.jpg"
-    linkedin    : "ryan-avery-75b165a8"
-    cv          : "/assets/files/RAvery_CV.pdf"
-    
-Michael Singer:
-    name        : "Michael Bliss Singer"
+Katerina Michaelides:
+    name        : "Katerina Michaelides"
     bio         : "Research Group Leader"
-    email       : "bliss@eri.ucsb.edu"
-    github      : "blissville71"
-    researchgate: "Michael_Singer23"
-    google_scholar: "LT_zsYAAAAAJ&hl"
-    linkedin    : "michael-singer-632534194"
-    twitter     : "_blissville"
-    location    : "Cardiff, UK"
-    avatar      : "assets/images/people/Singer.jpg"
-    cv          : "/assets/files/Singer_CV.pdf"
-    
+    email       : "katerina.michaelides@bristol.ac.uk"
+    github      : "KMichaelides"
+    google_scholar: "SW4AbDkAAAAJ&hl=en"
+    twitter     : "_kmichaelides"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Michaelides.jpg"
+    cv          : "/assets/files/Michaelides_CV.pdf"
+       
 Andrew Chen:
     name        : "Shiuan-An (Andrew) Chen"
     bio         : "PhD Student"
@@ -35,15 +23,7 @@ Andrew Chen:
     facebook    : "100000637832056"
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Chen.jpg"
-    
-Maria Warter:
-    name        : "Maria Magdalena Warter"
-    bio         : "PhD Student"
-    email       : "WarterM@cardiff.ac.uk"
-    google_scholar: "aFOp30MAAAAJ&hl=en&oi=ao"
-    location    : "Cardiff, UK"
-    avatar      : "assets/images/people/Warter.jpg"
-    
+       
 Isaac Kipkemoi:
     name        : "Isaac Kipkemoi"
     bio         : "PhD Student"
@@ -55,57 +35,7 @@ Isaac Kipkemoi:
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Kipkemoi.jpg"
     
-Li Kui:
-    name        : "Li Kui"
-    bio         : "Project Scientist"
-    email       : "li.kui@ucsb.edu"
-    google_scholar: "vX3RIkAAAAAJ&hl=en&authuser=1"
-    linkedin    : "kui2014"
-    github      : "lkuiucsb"
-    location    : "Santa Barbara, USA"
-    avatar      : "assets/images/people/Kui.jpg"
-    
-Christopher Kibler:
-    name        : "Christopher Kibler"
-    bio         : "PhD Student"
-    email       : "kibler@ucsb.edu"
-    google_scholar: "en&authuser=3&user=lFJ38RYAAAAJ"
-    linkedin    : "christopherkibler"
-    researchgate: "Christopher_Kibler"
-    location    : "Santa Barbara, USA"
-    avatar      : "assets/images/people/Kibler.jpg"
-    
-Thomas Myktyn:
-    name        : "Thomas Myktyn"
-    bio         : "Masters Student"
-    email       : "tmykytyn@gmail.com"
-    linkedin    : "thomas-mykytyn-aaa78124/"
-    location    : "San Jose, USA"
-    avatar      : "assets/images/people/Myktyn.jpg"
-    
-Conor McMahon:
-    name        : "Conor McMahon"
-    bio         : "PhD Student"
-    email       : "conon.mcmahon@geog.ucsb.edu"
-    linkedin    : "conor-mcmahon-a35b9010a"
-    github      : "conormcmahon"
-    location    : "Santa Barbara, USA"
-    avatar      : "assets/images/people/McMahon.jpg"
-    
-Romy Sabathier:
-    name        : "Romy Sabathier"
-    bio         : "PhD Student"
-    email       : "SabathierR@cardiff.ac.uk"
-    location    : "Cardiff, UK"
-    avatar      : "assets/images/people/Sabathier.jpg"
-    
-Lissa Pelletier:
-    name        : "Lissa Pelletier"
-    bio         : "Masters Student"
-    email       : "lpelleti@syr.edu"
-    location    : "Syracuse, USA"
-    avatar      : "assets/images/people/Pelletier2.jpg"
-    linkedin    : "lissa-pelletier-a9241191"
+
 
 
 

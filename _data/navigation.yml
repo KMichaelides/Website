@@ -1,17 +1,19 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "People"
     url: /people/
   - title: "Research Themes"
     url: /themes/
   - title: "Publications"
     url: /publications/
-  - title: "Tools"
-    url: /tools/
+  - title: "Projects"
+    url: /projects/
   - title: "CV <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
-    url: /assets/files/Singer_CV.pdf
+    url: /assets/files/Michaelides_CV.pdf
   - title: "gScholar <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
-    url: https://scholar.google.com/citations?user=LT_zsYAAAAAJ&hl
+    url: https://scholar.google.com/citations?user=SW4AbDkAAAAJ&hl=en
   - title: "News"
     url: /recent/
   - title: "Media Attention"

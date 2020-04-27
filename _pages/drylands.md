@@ -1,11 +1,11 @@
 ---
 layout: splash
 permalink: /drylands/
-title: "Dryland Hydrology and Landscape Evolution"
+title: "Dryland Hydrology, Sediment Transport and Landscape Evolution"
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/israel.jpg
+  overlay_image: /assets/images/Israel_hillslope3.jpg
 excerpt: 'Studying the cascade from climate to water cycle to surface processes to landforms in drylands.<br /><br /><br /><br /><br /><br />'
 
 ---
@@ -15,6 +15,20 @@ Little is known about the interaction between climatically expressed hydrology a
 We have been working to better understand the climate drivers in dryland environments and the Earth surface responses to heterogeneous runoff generation with a broader goal of characterizing the evolving water balance and landscape evolution under climate change. We have made contributions to the development of new modeling tools for simulating the spatial and temporal effects of individual rainstorms over the landscape and their influence on soil moisture, runoff, streamflow, groundwater recharge, and evapotranspiration. We have also compiled new topographic databases of the world's drainage basins that enabled us to identify distinct and unprecedented climatic signatures within topography that segregate by regional aridity.      
 
 ## Projects on this research theme include:<br>
-Climatic controls on river topography. PhD Project of [Shiuan-An (Andrew) Chen]({% link _people/chen.md %}), Unfunded. 
+Climatic controls on river topography. PhD Project of [Shiuan-An (Andrew) Chen]({% link _people/chen.md %}).
 
-[Drought Resilience In East African dryland Regions (DRIER)](https://research-information.bristol.ac.uk/en/projects/drought-resilience-in-east-african-dryland-regions-drier(353598a8-4600-4c0f-8077-1567751f639e).html). Funded by [The Royal Society](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh_NzSj9rkAhUEVdMKHd7iBOIYABAAGgJ3Yg&ohost=www.google.com&cid=CAESEeD29pTS62bLu8xAD4rqnJXp&sig=AOD64_3KTFEPnRAOrXCuiKSi4FgJpztIhA&q=&ved=2ahUKEwi9q9XSj9rkAhXkSRUIHVnRDSMQ0Qx6BAgfEAE&adurl=), K. Michaelides, **M. Singer (co-PI)**, M. Cuthbert, D. Mitchell, R. Rosolem, _2019-2022_
+Detecting signatures of drought in vegetation of East Africa. PhD Project of [Isaac Kipkemoi]({% link _people/kipkemoi.md %}). 
+
+[Drought Resilience In East African dryland Regions (DRIER)](https://research-information.bristol.ac.uk/en/projects/drought-resilience-in-east-african-dryland-regions-drier(353598a8-4600-4c0f-8077-1567751f639e).html). Funded by [The Royal Society](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh_NzSj9rkAhUEVdMKHd7iBOIYABAAGgJ3Yg&ohost=www.google.com&cid=CAESEeD29pTS62bLu8xAD4rqnJXp&sig=AOD64_3KTFEPnRAOrXCuiKSi4FgJpztIhA&q=&ved=2ahUKEwi9q9XSj9rkAhXkSRUIHVnRDSMQ0Qx6BAgfEAE&adurl=), **Michaelides (PI)**, Wasonga (University of Nairobi, Kenya, Co-PI), Assen (Addis Ababa University, Ethiopia, Co-PI), Singer, Cuthbert, Mitchell, Rosolem, Tebboth, Few, _2019-2022_
+
+## Relevant group publications:<br>
+
+Michaelides & Martin (2012)
+
+Michaelides & Singer (2014)
+
+Singer & Michaelides (2014)
+
+Michaelides et al. (2018)
+
+Chen et al. (2019)

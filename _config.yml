@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "SCIence of Climate, LAnd, Water, <br>Plants, & Society (SCI-CLAWPS)"
+title                    : ""
 title_separator          : "-"
-name                     : "Michael Singer"
-description              : "Understanding the influence of climate on water, land, vegetation, and people."
-url                      : http://singer.eri.ucsb.edu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Katerina Michaelides"
+description              : "Researching climatic, hydrological, geomorphological and biogeochemical processes in drylands"
+url                      : http://michaelides.eri.ucsb.edu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : _blissville
+  username               : _kmichaelides
 facebook:
   username               : 
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Singer"
+  name             : "Katerina Michaelides"
   avatar           : "/assets/images/people/Singer.jpg"
-  bio              : "Deputy Director of the Water Research Institute & Senior Lecturer in the School of Earth & Ocean Sciences at Cardiff University; Researcher in the Earth Research Institute, UC Santa Barbara"
-  location         : "Cardiff, UK"
-  email            : "bliss@eri.ucsb.edu"
-  cv               : "/assets/files/Singer_CV.pdf" 
+  bio              : "Senior Lecturer in the School of Geographical Sciences, University of Bristol; Associate Researcher in the Earth Research Institute, UC Santa Barbara"
+  location         : "Bristol, UK"
+  email            : "katerina.michaelides@bristol.ac.uk"
+  cv               : "/assets/files/Michaelides_CV.pdf" 
   uri              :
   bitbucket        :
   codepen          :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "blissville71"
+  github           : "kmichaelides"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,13 +101,13 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "_blissville"
+  twitter          : "_kmichaelides"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  google_scholar   : "LT_zsYAAAAAJ&hl"
-  researchgate     : "Michael_Singer23"
+  google_scholar   : "SW4AbDkAAAAJ&hl=en"
+  researchgate     : 
 
 
 # Reading Files
