@@ -16,7 +16,16 @@ excerpt: "Current and past group members"
 
 ## Current Postdocs
 
-![Andrés Quichimbo](/assets/images/people/Quichimbo2.jpg){:class="img-responsive"}<br>
+![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
+[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/) DRIER Project (_2020-22_) <br>
+
+![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
+[Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by GCRF Translational Award [GCRF](https://www.ukri.org/research/global-challenges-research-fund/) MAD DAD Project (_2020-22_) <br>
+
+![David MacLeod](../assets/images/people/MacLeod.jpg){:class="img-responsive"}<br>
+[David MacLeod], Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
+
+![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
 [Andrés Quichimbo](quichimbo.md), Research Associate, funded by a Global Challenges Research Fund grant <br>
 **Climate impacts on the water balance in East African drylands** (_2018-9_)
 
@@ -25,10 +34,6 @@ excerpt: "Current and past group members"
 #### (Katerina's role in parentheses)
 
 <br>
-![Roberto Quaglia](/assets/images/people/Quaglia.jpg){:class="img-responsive"}<br>
-[Roberto Quaglia](http://wisecdt.org.uk/wise_people/roberto-quaglia/), PhD (Primary Supervisor), [Water Informatics, Science & Engineering (WISE) Doctoral Training Programme](http://wisecdt.org.uk/) funded <br> 
-**Thesis: Continental trends in sub-daily precipitation** (_2019-_)
-
 ![Isaac Kipkemoi](/assets/images/people/Kipkemoi.jpg){:class="img-responsive"}<br>
 [Isaac Kipkemoi]({% link _people/kipkemoi.md %}), PhD (Primary Supervisor), Kenyan Government Scholarship <br>
 **Thesis: Detecting signatures of drought in vegetation of East Africa** (_2018-_)
@@ -47,6 +52,9 @@ excerpt: "Current and past group members"
 
    
 ## Past Graduate Students (PhD and Masters)
+
+Eleanor Hansford, MSc (Primary Supervisor) <br> 
+**Thesis: Recent precipitation changes in East Africa and their relation to groundwater** (_2018-19_)
 
 Rory Hollings, MScR (Primary Supervisor) <br>
 **Thesis: How do rainstorms shape dryland river basins?** (_2014-2017_)

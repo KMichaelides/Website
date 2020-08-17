@@ -10,7 +10,7 @@ Katerina Michaelides:
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Michaelides.jpg"
     cv          : "/assets/files/Michaelides_CV.pdf"
-       
+   
 Andrew Chen:
     name        : "Shiuan-An (Andrew) Chen"
     bio         : "PhD Student"
@@ -34,6 +34,48 @@ Isaac Kipkemoi:
     facebook    : "kipkemoi.isaac.77"
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Kipkemoi.jpg"
+
+Jacob Rigby:
+    name        : "Jacob Rigby"
+    bio         : "Postdoctoral Research Associate"
+    email       : "j.rigby@bristol.ac.uk"
+    google_scholar: "Jh0rbWgAAAAJ&hl=en"
+    linkedin    : "jacobrigby"
+    researchgate: "Jacob_Rigby"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Rigby.jpg"
+    
+Dagmawi Asfaw:
+    name        : "Dagmawi Asfaw"
+    bio         : "Postdoctoral Research Associate"
+    email       : "d.t.asfaw@bristol.ac.uk"
+    google_scholar: "Sf7o9OAAAAAJ&hl=en"
+    linkedin    : "dagmawi-t-asfaw-0492046a"
+    researchgate: "Dagmawi_Asfaw"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Asfaw.jpg"
+
+David MacLeod:
+    name        : "David MacLeod"
+    bio         : "Senior Research Associate"
+    email       : "david.macleod@bristol.ac.uk"
+    google_scholar: ""
+    linkedin    : ""
+    twitter     : ""
+    researchgate: ""
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/MacLeod.jpg"
+    
+Andrés Quichimbo:
+    name        : "Andrés Quichimbo"
+    bio         : "PhD Student"
+    email       : "QuichimboMiguitamaEA@cardiff.ac.uk"
+    google_scholar: "LJk2XqgAAAAJ&hl=ru"
+    linkedin    : "andresquichimbo"
+    twitter     : "QuichimboEA"
+    researchgate: "A_Quichimbo"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Quichimbo.jpg"
     
 
 
