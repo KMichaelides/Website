@@ -59,10 +59,10 @@ David MacLeod:
     name        : "David MacLeod"
     bio         : "Senior Research Associate"
     email       : "david.macleod@bristol.ac.uk"
-    google_scholar: ""
-    linkedin    : ""
-    twitter     : ""
-    researchgate: ""
+    google_scholar: "5XtRzu8AAAAJ&hl=en"
+    linkedin    : "dave-macleod-74575a45"
+    twitter     : "davemacleod111"
+    researchgate: "David_Macleod7"
     location    : "Bristol, UK"
     avatar      : "assets/images/people/MacLeod.jpg"
     
@@ -77,6 +77,16 @@ Andrés Quichimbo:
     location    : "Cardiff, UK"
     avatar      : "assets/images/people/Quichimbo.jpg"
     
+Lauren Brown:
+    name        : "Lauren Brown"
+    bio         : "Proejct Support Officer"
+    email       : "lauren.bratby@bristol.ac.uk"
+    google_scholar: ""
+    linkedin    : ""
+    twitter     : ""
+    researchgate: ""
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Brown.jpg"
 
 
 

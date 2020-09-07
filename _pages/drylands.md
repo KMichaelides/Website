@@ -23,12 +23,14 @@ Detecting signatures of drought in vegetation of East Africa. PhD Project of [Is
 
 ## Relevant group publications:<br>
 
-Michaelides & Martin (2012)
+**Michaelides, K.** & Martin, G.J. (2012) Sediment transport by runoff on debris-mantled dryland hillslopes. *Journal of Geophysical Research-Earth Surface*, doi:10.1029/2012JF002415, 117, F03014. 
 
-Michaelides & Singer (2014)
+**Michaelides, K.** & Singer, M.B. (2014) Impact of coarse sediment supply from hillslopes to the channel in runoff-dominated, dryland fluvial systems. *Journal of Geophysical Research–Earth Surface*, doi:10.1002/2013JF002959, 119 (6) 1205 – 1221. 
 
-Singer & Michaelides (2014)
+Singer, M.B. & **Michaelides, K.** (2014) How is topographic simplicity maintained in ephemeral, dryland channels? *Geology*, doi:10.1130/G36267.1.
 
-Michaelides et al. (2018)
+**Michaelides, K.**, Hollings, R., Singer, M.B., Nichols, M., Nearing, M. (2018) Spatial and temporal analysis of hillslope-channel coupling and implications for the longitudinal profile in a dryland basin. *Earth Surface Processes and Landforms* doi:10.1002/esp.4340 
 
-Chen et al. (2019)
+Calvert, J., Balazs, M. and **Michaelides, K.** (2018) Unifying particle-based and continuum models of hillslope evolution with a probabilistic scaling technique. *Journal of Geophysical Research–Earth Surface*. doi:10.1029/2018JF004612.
+
+Chen S-A., **Michaelides, K.**, Grieve, S.W.D. and Singer, M.B. (2019) Aridity is expressed in river topography globally. *Nature* 573–577, doi.org/10.1038/s41586-019-1558-8. 

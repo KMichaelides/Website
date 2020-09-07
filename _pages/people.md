@@ -14,6 +14,11 @@ excerpt: "Current and past group members"
 ![Katerina Michaelides](/assets/images/people/Michaelides.jpg){:class="img-responsive"}<br>
 [Katerina Michaelides]({% link _people/Michaelides.md %})
 
+## Project Support
+
+![Lauren Brown](../assets/images/people/brown.jpg){:class="img-responsive"}<br>
+[Lauren Brown]({% link _people/brown.md %}), Project Support for DRIER and MAD DAD projects. <br>
+
 ## Current Postdocs
 
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
@@ -23,7 +28,7 @@ excerpt: "Current and past group members"
 [Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by GCRF Translational Award [GCRF](https://www.ukri.org/research/global-challenges-research-fund/) MAD DAD Project (_2020-22_) <br>
 
 ![David MacLeod](../assets/images/people/MacLeod.jpg){:class="img-responsive"}<br>
-[David MacLeod], Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
+[David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
 [Andrés Quichimbo](quichimbo.md), Research Associate, funded by a Global Challenges Research Fund grant <br>

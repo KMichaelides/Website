@@ -1,21 +1,21 @@
 ---
 id: 3065
-title: "Michael Singer"
+title: "Katerina Michaelides"
 role: "Academic Lead"
-excerpt: "Michael is the Deputy Director of the Water Research Institute and Senior Lecturer (Associate Professor) in the School of Earth & Ocean Sciences at Cardiff University, and a Researcher in the Earth Research Institute at the University of California Santa Barbara (UCSB)."
-avatar: "assets/images/people/Singer.jpg"
-author: "Michael Singer"
+excerpt: "Katerina is a Senior Lecturer in hydrology and geomorphology in the School of Geographical Sciences at the University of Bristol, co-lead of the Water Theme of the Cabot Institute for the Environment, and an Associate Researcher in the Earth Research Institute at the University of California Santa Barbara (UCSB)."
+avatar: "assets/images/people/Michaelides.jpg"
+author: "Katerina Michaelides"
 portfolio-item-category:
     - people
 portfolio-item-tag:
     
 header:
-   image: "assets/images/people/Singer_header.jpg"
-   caption: "One of Michael Singer's research sites: Rose Bar along the Yuba River, California."
+   image: "assets/images/people/KM_desert_hillslope.jpg"
+   caption: "Katerina in a desert hillslope in southern California"
 ---
 
-Dr Singer is Deputy Director of the [Water Research Institute](https://www.cardiff.ac.uk/water-research-institute) and Senior Lecturer in the [School of Earth & Ocean Sciences](https://www.cardiff.ac.uk/earth-ocean-sciences) at [Cardiff University](https://www.cardiff.ac.uk), as well as a Researcher in the [Earth Research Institute](https://www.eri.ucsb.edu/) at [University of California Santa Barbara (UCSB)](https://www.ucsb.edu/). He received his PhD in Environmental Science and Management from UCSB in 2003. He is a Certified Professional Hydrologist [American Institute of Hydrology](https://www.aihydrology.org/). 
+Katerina is a Senior Lecturer in the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/) at [the University of Bristol](https://www.bristol.ac.uk), the co-lead of the Water Theme of the [Cabot Institute for the Environment](http://www.bristol.ac.uk/cabot/), and an Associate Researcher in the [Earth Research Institute](https://www.eri.ucsb.edu/) at [University of California Santa Barbara (UCSB)](https://www.ucsb.edu/). She received her PhD in Hydrology of Arid Environments from King's College London in 2000. 
 
-His research is focused on the regional expression of climate and climate change at and near the Earth’s surface and its impact on process responses to environmental change (climatic and anthropogenic forcing), which is currently a great scientific challenge with societal relevance. Near-surface responses to environmental change are critical to predicting the consequences of climate and land-use changes at the landscape scale, as well as for management on human/engineering timescales. Singer is, at the core, a watershed scientist with a research aim to advance theory and reduce uncertainty about the impact of humans and climate on water resources, water balance, hydrologic fluxes, erosion/sedimentation, and topographic evolution of landscapes. 
+Her research focuses primarily on processes in dryland environments from a theoretical and applied perspective. This includes research on dryland hydro-climatology, Earth surface processes, and desertification dynamics. For the last 10 years she has been working on understanding why and how dryland fluvial environments differ from their humid counterparts. She leads a multidisciplinary research programme focused on droughts and land degradation in East African drylands of Somalia, Kenya and Ethiopia. This research has a strong international development focus and involves the creation of novel tools (including models and mobile phone apps) to aid rural communities in adapting to droughts and future climate change. 
 
-Michael has received research grants from many funders including the [US National Science Foundation (NSF)](https://www.nsf.gov), the [US Department of Defense's Strategic Environmental Research and Development Program (SERDP)](https://www.serdp-estcp.org/), [The Nature Conservancy](https://www.nature.org/en-us/), and the [UK's Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/).    
+Katerina has been awarded research grants from many funders including the [UKRI Global Challenges Research Fund](https://www.ukri.org/research/global-challenges-research-fund/), the [Royal Society](https://royalsociety.org/), the [UK Natural Environment Research Council (NERC)](https://nerc.ukri.org/), and the [EU Horizon 2020 program](https://ec.europa.eu/programmes/horizon2020/en).    

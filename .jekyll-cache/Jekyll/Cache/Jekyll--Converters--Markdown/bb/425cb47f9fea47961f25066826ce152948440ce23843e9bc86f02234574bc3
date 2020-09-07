@@ -1,0 +1,145 @@
+I"ƒ
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/Kenya.jpg" alt="science" />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Climate Change Impacts on the Water Balance in East African Drylands</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Investigating how climate and climate change affects water availability to human society in East African drylands.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/EastAfrica/" class="btn btn--success">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/Israel_hillslope3.jpg" alt="science" />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Dryland Hydrology, Sediment Transport, and Landscape Evolution</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Studying the cascade from climate to water cycle to surface processes to landforms in drylands.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/drylands/" class="btn btn--success">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/Creosote.jpg" alt="science" />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Dryland Degradation and Desertification</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Studying the hydrological, erosional, biogeochemical and anthropogenic controls on land degradation and desertification in dryland ecosystems.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/desertification/" class="btn btn--success">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="http://localhost:4000/assets/images/Rainstorm_Gino.jpg" alt="science" />
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Understanding the Expression of Climate in Rainfall Characteristics</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Exploring how climate and climate change is expressed in sub-daily rainfall characteristics in dryland regions.</p>
+
+            </div>
+          
+
+          
+            <p><a href="http://localhost:4000/rainfall/" class="btn btn--success">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET

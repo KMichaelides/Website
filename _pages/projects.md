@@ -38,7 +38,7 @@ feature_row4:
     title: "Climate Impacts on the Water Balance in East Africa"
     alt: "science"
     excerpt: "Developing a new water balance model for drylands."
-    url: "/mining/"
+    url: "/desertification/"
     btn_label: "Learn More"
     btn_class: "btn--success"
 
