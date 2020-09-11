@@ -1,4 +1,4 @@
-I"ƒ
+I"Ó
 <div class="feature__wrapper">
 
   
@@ -9,7 +9,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://localhost:4000/assets/images/Kenya.jpg" alt="science" />
+            <img src="http://michaelides.eri.ucsb.edu/assets/images/Kenya.jpg" alt="science" />
           </div>
         
 
@@ -26,7 +26,7 @@
           
 
           
-            <p><a href="http://localhost:4000/EastAfrica/" class="btn btn--success">Learn More</a></p>
+            <p><a href="http://michaelides.eri.ucsb.edu/EastAfrica/" class="btn btn--success">Learn More</a></p>
           
         </div>
       </div>
@@ -45,7 +45,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://localhost:4000/assets/images/Israel_hillslope3.jpg" alt="science" />
+            <img src="http://michaelides.eri.ucsb.edu/assets/images/Israel_hillslope3.jpg" alt="science" />
           </div>
         
 
@@ -62,7 +62,7 @@
           
 
           
-            <p><a href="http://localhost:4000/drylands/" class="btn btn--success">Learn More</a></p>
+            <p><a href="http://michaelides.eri.ucsb.edu/drylands/" class="btn btn--success">Learn More</a></p>
           
         </div>
       </div>
@@ -81,7 +81,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://localhost:4000/assets/images/Creosote.jpg" alt="science" />
+            <img src="http://michaelides.eri.ucsb.edu/assets/images/Creosote.jpg" alt="science" />
           </div>
         
 
@@ -98,7 +98,7 @@
           
 
           
-            <p><a href="http://localhost:4000/desertification/" class="btn btn--success">Learn More</a></p>
+            <p><a href="http://michaelides.eri.ucsb.edu/desertification/" class="btn btn--success">Learn More</a></p>
           
         </div>
       </div>
@@ -117,7 +117,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://localhost:4000/assets/images/Rainstorm_Gino.jpg" alt="science" />
+            <img src="http://michaelides.eri.ucsb.edu/assets/images/Rainstorm_Gino.jpg" alt="science" />
           </div>
         
 
@@ -134,7 +134,7 @@
           
 
           
-            <p><a href="http://localhost:4000/rainfall/" class="btn btn--success">Learn More</a></p>
+            <p><a href="http://michaelides.eri.ucsb.edu/rainfall/" class="btn btn--success">Learn More</a></p>
           
         </div>
       </div>

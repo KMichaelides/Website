@@ -2,15 +2,15 @@
 id: 3065
 title: "Lauren Brown"
 role: "Project Support Officer"
-excerpt: "Dagmawi is the Project Support Officer in the School of Geographical Sciences, University of Bristol."
-avatar: "assets/images/people/Brown.jpeg"
+excerpt: "Lauren is the Project Support Officer in the School of Geographical Sciences, University of Bristol."
+avatar: "assets/images/people/Brown.jpg"
 author: "Lauren Brown"
 portfolio-item-category:
     - people
 portfolio-item-tag:
     
 header:
-   image: "assets/images/people/Brown_header.jpeg"
+   image: "assets/images/people/Brown_header.jpg"
    caption: ""
 ---
 

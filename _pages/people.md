@@ -27,7 +27,7 @@ excerpt: "Current and past group members"
 ![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
 [Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by GCRF Translational Award [GCRF](https://www.ukri.org/research/global-challenges-research-fund/) MAD DAD Project (_2020-22_) <br>
 
-![David MacLeod](../assets/images/people/MacLeod.jpg){:class="img-responsive"}<br>
+![David MacLeod](../assets/images/people/Macleod.jpg){:class="img-responsive"}<br>
 [David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
@@ -88,8 +88,6 @@ Gareth Martin, PhD (Primary Supervisor) <br>
 [Mark Cuthbert](https://www.cardiff.ac.uk/people/view/617129-cuthbert-mark), [School of Earth & Ocean Sciences](https://www.cardiff.ac.uk/earth-ocean-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
 
 [Dan Hobley](https://www.cardiff.ac.uk/people/view/481890-), [School of Earth & Ocean Sciences](https://www.cardiff.ac.uk/earth-ocean-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
-
-[Owen Jones](https://www.cardiff.ac.uk/people/view/556930-jones-owen), [School of Mathematics](https://www.cardiff.ac.uk/mathematics), [Cardiff University](https://www.cardiff.ac.uk)<br>
 
 [Rafael Rosolem](http://www.bristol.ac.uk/engineering/people/rafael-rosolem/overview.html), [School of Engineering](http://www.bristol.ac.uk/engineering/), [University of Bristol](http://www.bristol.ac.uk).<br>
 

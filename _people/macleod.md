@@ -3,14 +3,14 @@ id: 3065
 title: "David MacLeod"
 role: "Senior Research Associate"
 excerpt: "David is a Senior Research Associate in the School of Geographical Sciences, University of Bristol."
-avatar: "assets/images/people/macleod.jpeg"
+avatar: "assets/images/people/Macleod.jpg"
 author: "David MacLeod"
 portfolio-item-category:
     - people
 portfolio-item-tag:
     
 header:
-   image: "assets/images/people/macleod_header.jpg"
+   image: "assets/images/people/Macleod_header.jpg"
    caption: "KenGen wind farm on the Ngong hills, Kenya, which overlooks the Rift Valley and is close to ICPAC"
 ---
 
