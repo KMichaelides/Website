@@ -1,4 +1,4 @@
-I"¡
+I"y
 
 <div class="feature__wrapper">
 
@@ -44,7 +44,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://michaelides.eri.ucsb.edu/assets/images/WG_channel.jpg" alt="" />
+            <img src="http://localhost:4000/assets/images/WG_channel.jpg" alt="" />
           </div>
         
 
@@ -72,7 +72,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://michaelides.eri.ucsb.edu/assets/images/Mojave1.jpg" alt="" />
+            <img src="http://localhost:4000/assets/images/Mojave1.jpg" alt="" />
           </div>
         
 
@@ -89,7 +89,7 @@
           
 
           
-            <p><a href="http://michaelides.eri.ucsb.edu/themes/" class="btn btn--success">Learn More About Our Research</a></p>
+            <p><a href="http://localhost:4000/themes/" class="btn btn--success">Learn More About Our Research</a></p>
           
         </div>
       </div>
@@ -102,7 +102,7 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="http://michaelides.eri.ucsb.edu/assets/images/Israel_hillslope2.jpg" alt="" />
+            <img src="http://localhost:4000/assets/images/Israel_hillslope2.jpg" alt="" />
           </div>
         
 
