@@ -10,7 +10,7 @@ portfolio-item-category:
 portfolio-item-tag:
     
 header:
-   image: "assets/images/people/KM_desert_hillslope.jpg"
+   image: "assets/images/people/Michaelides_header.jpg"
    caption: "Katerina in a desert hillslope in southern California"
 ---
 
