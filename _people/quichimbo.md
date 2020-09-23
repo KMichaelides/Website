@@ -1,6 +1,7 @@
 ---
+id: 3065
 title: "Andrés Quichimbo"
-role: "postdoctoral researcher"
+role: "postdoctoral research associate"
 excerpt: "Andrés is a postdoctoral researcher in Earth & Ocean Sciences at Cardiff."
 avatar: "assets/images/people/Quichimbo.jpg"
 author: "Andrés Quichimbo"

@@ -68,7 +68,7 @@ David MacLeod:
     
 Andrés Quichimbo:
     name        : "Andrés Quichimbo"
-    bio         : "PhD Student"
+    bio         : "Research Associate"
     email       : "QuichimboMiguitamaEA@cardiff.ac.uk"
     google_scholar: "LJk2XqgAAAAJ&hl=ru"
     linkedin    : "andresquichimbo"
@@ -88,7 +88,16 @@ Lauren Brown:
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Brown.jpg"
 
-
+Tamsin Lockwood:
+    name        : "Tamsin Lockwood"
+    bio         : "PhD Student"
+    email       : "tamsin.lockwood@bristol.ac.uk"
+    google_scholar: ""
+    linkedin    : "tamsin-lockwood-5461aab3"
+    twitter     : "tamsinlockwood"
+    researchgate: ""
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Lockwood.jpg"
 
 
 

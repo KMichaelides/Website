@@ -31,8 +31,7 @@ excerpt: "Current and past group members"
 [David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
-[Andrés Quichimbo](quichimbo.md), Research Associate, funded by a Global Challenges Research Fund grant <br>
-**Climate impacts on the water balance in East African drylands** (_2018-9_)
+[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate, funded by [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/) DRIER Project (based at Cardiff University)
 
 
 ## Current PhD Students 
@@ -48,8 +47,8 @@ excerpt: "Current and past group members"
 **Thesis: Climatic controls on river topography** (_2016-_)
 
 ![Tamsin Lockwood](/assets/images/people/Lockwood.jpg){:class="img-responsive"}<br>
-[Tamsin Lockwood](http://www.bristol.ac.uk/geography/people/tamsin-h-lockwood/overview.html), PhD (Primary Supervisor, taken over from Jim Freer in 2019) <br>
-**Thesis: Quantifying the efficacy of in-situ Natural Flood Management (NFM) through monitoring and model predictions including uncertainty** (_2017-_)
+[Tamsin Lockwood]({% link _people/lockwood.md %}), PhD (Primary Supervisor, taken over from Jim Freer in 2019) <br>
+**Thesis: Quantifying the efficacy of in-situ Natural Flood Management (NFM)** (_2017-_)
 
    
 ## Current Masters Students
@@ -67,7 +66,7 @@ Rory Hollings, MScR (Primary Supervisor) <br>
 [Thom Turpin-Jelfs](http://www.bristol.ac.uk/geography/people/thomas-c-turpin-jelfs/index.html), PhD (Primary Supervisor) <br>
 **Thesis: Impacts of environmental change on the soil nitrogen pool in emerging and degrading arid ecosystems.** (_2014-2019_)
 
-[Alice Charteris](http://www.bristol.ac.uk/geography/people/thomas-c-turpin-jelfs/index.html), PhD (2nd Supervisor) <br>
+[Alice Charteris](https://repository.rothamsted.ac.uk/staff/84218/alice-charteris), PhD (2nd Supervisor) <br>
 **Thesis: 15N tracing of microbial assimilation, partitioning and transport of fertilisers in grassland soils.** (_2013-2017_)
 
 Rebecca Harrison, PhD (Primary Supervisor) <br>
