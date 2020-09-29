@@ -9,7 +9,7 @@ header:
   cta_label: "<i class='fas fa-newspaper'></i> Latest News"
   cta_url: "/recent/"
   caption:
-excerpt: '<br /> **[Katerina Michaelides]({% link _people/michaelides.md %}) Research Group**<br /> _Researching climatic, hydrological, geomorphological and biogeochemical processes in drylands (and beyond...)._<br /> <small><br /><a href="http://www.bristol.ac.uk/geography/">School of Geographical Sciences</a> |  <a href="https://www.bristol.ac.uk">University of Bristol</a><br /> <a href="http://eri.ucsb.edu">Earth Research Institute</a> | <a href="http://www.ucsb.edu">UCSB</a></small><br />'
+excerpt: '<br /> **[Katerina Michaelides](https://michaelides.eri.ucsb.edu/people/Michaelides/) Research Group**<br /> _Researching climatic, hydrological, geomorphological and biogeochemical processes in drylands (and beyond...)._<br /> <small><br /><a href="http://www.bristol.ac.uk/geography/">School of Geographical Sciences</a> |  <a href="https://www.bristol.ac.uk">University of Bristol</a><br /> <a href="http://eri.ucsb.edu">Earth Research Institute</a> | <a href="http://www.ucsb.edu">UCSB</a></small><br />'
 
 feature_row:
   - image_path: /assets/images/WG_channel.jpg

@@ -57,10 +57,10 @@ excerpt: "Current and past group members"
    
 ## Past Graduate Students (PhD and Masters)
 
-Eleanor Hansford, MSc (Primary Supervisor) <br> 
+[Eleanor Hansford](https://www.linkedin.com/in/eleanorhansford/?originalSubdomain=uk), MSc (Primary Supervisor) <br> 
 **Thesis: Recent precipitation changes in East Africa and their relation to groundwater** (_2018-19_)
 
-Rory Hollings, MScR (Primary Supervisor) <br>
+[Rory Hollings](https://www.linkedin.com/in/rory-hollings-piema-assocrtpi-6a2712146/?originalSubdomain=uk), MScR (Primary Supervisor) <br>
 **Thesis: How do rainstorms shape dryland river basins?** (_2014-2017_)
 
 [Thom Turpin-Jelfs](http://www.bristol.ac.uk/geography/people/thomas-c-turpin-jelfs/index.html), PhD (Primary Supervisor) <br>
