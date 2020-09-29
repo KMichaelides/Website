@@ -9,7 +9,7 @@ portfolio-item-category:
 portfolio-item-tag:
     
 header:
-   image: "assets/images/people/Chen_header.jpg"
+   image: "assets/images/people/Chen_header.JPG"
    caption: "One of Andrew Chen's research sites in Taiwan."
 ---
 
