@@ -82,31 +82,5 @@ Gareth Martin, PhD (Primary Supervisor) <br>
 **Thesis: Investigating the effects of hillslope-channel coupling on sediment transport in semi-arid areas.** (_2001-2005_)
 
 
-## Recent and Current Collaborators
-
-[Mark Cuthbert](https://www.cardiff.ac.uk/people/view/617129-cuthbert-mark), [School of Earth & Ocean Sciences](https://www.cardiff.ac.uk/earth-ocean-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
-
-[Dan Hobley](https://www.cardiff.ac.uk/people/view/481890-), [School of Earth & Ocean Sciences](https://www.cardiff.ac.uk/earth-ocean-sciences), [Cardiff University](https://www.cardiff.ac.uk)<br>
-
-[Rafael Rosolem](http://www.bristol.ac.uk/engineering/people/rafael-rosolem/overview.html), [School of Engineering](http://www.bristol.ac.uk/engineering/), [University of Bristol](http://www.bristol.ac.uk).<br>
-
-[Mark Tebboth](https://people.uea.ac.uk/m_tebboth), [School of International Development](https://www.uea.ac.uk/international-development), [University of East Anglia](http://www.uea.ac.uk).<br>
-
-[Roger Few](https://people.uea.ac.uk/r_few), [School of International Development](https://www.uea.ac.uk/international-development), [University of East Anglia](http://www.uea.ac.uk).<br>
-
-[Dann Mitchell](http://www.bristol.ac.uk/geography/people/dann-m-mitchell/overview.html), [School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](http://www.bristol.ac.uk).<br> 
-
-[Daniel Shien](http://www.bristol.ac.uk/engineering/people/daniel-schien/), [School of Engineering](http://www.bristol.ac.uk/engineering/), [University of Bristol](http://www.bristol.ac.uk).<br> 
-
-[Chris Preist](http://www.bris.ac.uk/engineering/people/chris-w-preist/index.html), [School of Engineering](http://www.bristol.ac.uk/engineering/), [University of Bristol](http://www.bristol.ac.uk).<br> 
-
-[Oliver Wasonga](http://www.oliverwasonga.info), [Department of Land Resource Management and Agricultural Technology](https://larmat.uonbi.ac.ke/), [University of Nairobi](https://www.uonbi.ac.ke/).<br> 
-
-[Mohammed Assen](http://www.aau.edu.et/idpr/mohammed-assen/), [Institute of Development and Policy Research](http://www.aau.edu.et/idpr), [Addis Ababa University](http://www.aau.edu.et/).<br> 
-
-[Flavian Muthusi](https://www.researchgate.net/profile/Flavian_Muthusi), [FAO Somalia Water and Land Information Management (SWALIM)](http://www.faoswalim.org/)<br> 
-
-[Peris Muchiri](https://ke.linkedin.com/in/peris-muchiri-592426170), [FAO Somalia Water and Land Information Management (SWALIM)](http://www.faoswalim.org/)<br> 
-
 
 

@@ -6,7 +6,7 @@ permalink: /media/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/TuolumneRiver.png
+  overlay_image: /assets/images/Israel_gully2.jpg
 excerpt: "Media and blogosphere attention for research by our group."
 ---
 
