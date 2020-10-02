@@ -10,7 +10,7 @@ excerpt: 'Investigating how climate affects water availability to human society 
 tags:
 ---
 
-[Drought Resilience In East African dryland Regions (DRIER)](https://research-information.bristol.ac.uk/en/projects/drought-resilience-in-east-african-dryland-regions-drier(353598a8-4600-4c0f-8077-1567751f639e).html). Funded by [The Royal Society](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh_NzSj9rkAhUEVdMKHd7iBOIYABAAGgJ3Yg&ohost=www.google.com&cid=CAESEeD29pTS62bLu8xAD4rqnJXp&sig=AOD64_3KTFEPnRAOrXCuiKSi4FgJpztIhA&q=&ved=2ahUKEwi9q9XSj9rkAhXkSRUIHVnRDSMQ0Qx6BAgfEAE&adurl=), **K. Michaelides (PI)** _(2019-22)_
+[Drought Resilience In East African dryland Regions (DRIER)](https://research-information.bristol.ac.uk/en/projects/drought-resilience-in-east-african-dryland-regions-drier(353598a8-4600-4c0f-8077-1567751f639e).html). Funded by [The Royal Society](https://royalsociety.org/), **K. Michaelides (PI)** _(2019-22)_
 
 [Dagmawi Asfaw]({% link _people/asfaw.md %}) is the DRIER Research Associate (postdoctoral researcher) based at Bristol (climate driver model development) and [Andrés Quichimbo]({% link _people/quichimbo.md %}) is the DRIER Research Associate (postdoctoral researcher) based at Cardiff (dryland water balance model development)
 
@@ -19,6 +19,14 @@ Climate change presents great challenges for dryland regions, especially in comm
 In the DRIER project, we are: 1) developing the scientific underpinning that links climate to water resources across East Africa within a parsimonious, novel, and flexible modelling framework; 2) translating short-term (seasonal) and long-term (decadal) climate forecasts, as well as various future scenarios of climate change for East Africa into simple gridded maps of shallow (soil moisture) and deep (groundwater recharge) water storage that include assessments of uncertainty; 3) generating socio-economic knowledge to support communication and future drought preparedness, which recognises the complex social realities and multiple livelihood stresses that populations experience. 
 
 ## Collaborators on this project:<br>
+
+**University of Nairobi, Kenya**
+
+[Oliver Wasonga](http://www.oliverwasonga.info), [Department of Land Resource Management and Agricultural Technology](https://larmat.uonbi.ac.ke/), [University of Nairobi](https://www.uonbi.ac.ke/).<br> 
+
+**Addis Ababa University, Ethiopia**
+
+[Mohammed Assen](http://www.aau.edu.et/idpr/mohammed-assen/), [Institute of Development and Policy Research](http://www.aau.edu.et/idpr), [Addis Ababa University](http://www.aau.edu.et/).<br> 
 
 **University of Bristol**
 
@@ -36,10 +44,3 @@ In the DRIER project, we are: 1) developing the scientific underpinning that lin
 [Mark Tebboth](https://people.uea.ac.uk/m_tebboth)<br>
 [Roger Few](https://people.uea.ac.uk/r_few)<br>
 
-**University of Nairobi, Kenya**
-
-[Oliver Wasonga](http://www.oliverwasonga.info), [Department of Land Resource Management and Agricultural Technology](https://larmat.uonbi.ac.ke/), [University of Nairobi](https://www.uonbi.ac.ke/).<br> 
-
-**Addis Ababa University, Ethiopia**
-
-[Mohammed Assen](http://www.aau.edu.et/idpr/mohammed-assen/), [Institute of Development and Policy Research](http://www.aau.edu.et/idpr), [Addis Ababa University](http://www.aau.edu.et/).<br> 

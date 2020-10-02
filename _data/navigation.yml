@@ -10,8 +10,6 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "CV <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
-    url: /assets/files/Michaelides_CV.pdf
   - title: "gScholar <i class='fas fa-external-link-alt' aria-hidden='true'></i>"
     url: https://scholar.google.com/citations?user=SW4AbDkAAAAJ&hl=en
   - title: "News"
