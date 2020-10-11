@@ -10,7 +10,7 @@ excerpt: 'MAD DAD'
 tags:
 ---
 
-Mobile phone App Development for Drought Adaptation in Drylands (MADDAD). Funded by [UK Research and Innovation Global Challenges Research Fund Translational Award (GRTA)](https://www.ukri.org/research/global-challenges-research-fund/gcrf-global-research-translation-awards/), **K. Michaelides (PI)** _2019-2021_ 
+Mobile phone App Development for Drought Adaptation in Drylands (MAD DAD). Funded by [UK Research and Innovation Global Challenges Research Fund Translational Award (GRTA)](https://www.ukri.org/research/global-challenges-research-fund/gcrf-global-research-translation-awards/), **K. Michaelides (PI)** _2019-2021_ 
 
 [Jacob Rigby]({% link _people/rigby.md %}) is the Research Associate (postdoctoral researcher) working on MAD DAD based in Bristol.
 
@@ -20,8 +20,8 @@ This project is developing a mobile phone app to deliver water status forecasts 
 
 **University of Bristol**
 
-[Daniel Shien](http://www.bristol.ac.uk/engineering/people/daniel-schien/) <br> 
 [Chris Preist](http://www.bris.ac.uk/engineering/people/chris-w-preist/index.html)<br> 
+[Daniel Shien](http://www.bristol.ac.uk/engineering/people/daniel-schien/) <br> 
 [Dann Mitchell](http://www.bristol.ac.uk/geography/people/dann-m-mitchell/overview.html)<br> 
 [Rafael Rosolem](http://www.bristol.ac.uk/engineering/people/rafael-rosolem/overview.html)<br>
 

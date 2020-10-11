@@ -12,13 +12,13 @@ excerpt: "Here is a list of publications by the research group."
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
 
-1.	*Adloff, M., Singer, M.B., **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Groundwater availability in East African drylands dominated by increasing intense short rains. In review
+1.	*Adloff, M., Singer, M.B., **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Groundwater availability in East African drylands dominated by increasing intense short rains. _In review_
 
-2.	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. Global analyses of long- versus short-term erosion rates reveal climatic influences on drainage basins.
+2.	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. Global analysis of short- versus long-term drainage basin erosion rates.
 
 3.	***Kipkemoi, I.**, **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands.
 
-4.	Singer, M.B., Grieve, S.W.D., ***Chen, S-A.**, and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. In revision.
+4.	Singer, M.B., Grieve, S.W.D., ***Chen, S-A.**, and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. _In revision_.
 
 5.	***Chen, S-A.**, **Michaelides, K.**, Grieve, S.W.D. and Singer, M.B. (2019) Aridity is expressed in river topography globally. _Nature_ 573–577, doi.org/10.1038/s41586-019-1558-8. 
 

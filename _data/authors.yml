@@ -4,13 +4,14 @@ Katerina Michaelides:
     name        : "Katerina Michaelides"
     bio         : "Research Group Leader"
     email       : "katerina.michaelides@bristol.ac.uk"
+    uri         : "https://research-information.bris.ac.uk/en/persons/katerina-michaelides"
     github      : "KMichaelides"
     google_scholar: "SW4AbDkAAAAJ&hl=en"
     twitter     : "_kmichaelides"
+    linkedin    : "katerina-michaelides-3bb746154"
     location    : "Bristol, UK"
     avatar      : "assets/images/people/Michaelides.jpg"
-    cv          : "/assets/files/Michaelides_CV.pdf"
-   
+    
 Andrew Chen:
     name        : "Shiuan-An (Andrew) Chen"
     bio         : "PhD Student"
