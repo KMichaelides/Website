@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Mojave2.jpg
-excerpt: 'Studying the controls on land degradation and desertification in dryland ecosystems.<br /><br /><br /><br /><br /><br />'
+excerpt: 'Studying the controls on land degradation and desertification in dryland ecosystems.<br />'
 tags:
 
 ---

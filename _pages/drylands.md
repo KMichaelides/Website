@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Israel_hillslope3.jpg
-excerpt: 'Studying the cascade from climate to water cycle to surface processes to landforms in drylands.<br /><br /><br /><br /><br /><br />'
+excerpt: 'Studying the cascade from climate to water cycle to surface processes to landforms in drylands.<br />'
 
 ---
 
