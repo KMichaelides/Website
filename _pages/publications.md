@@ -12,11 +12,11 @@ excerpt: "Here is a list of publications by the research group."
 #### Supervised PhD or MSc student and postdoc work denoted by *. 
 
 
-1.	*Adloff, M., Singer, M.B., **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Groundwater availability in East African drylands dominated by increasing intense short rains. _In review_
+1.	*Adloff, M., Singer, M.B., MacLeod, D.A. **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Sustained water storage in East African drylands dominated by seasonal rainfall extremes. _In review_
 
-2.	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. Global analysis of short- versus long-term drainage basin erosion rates.
+2.	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. (in review) Global analysis of short- versus long-term drainage basin erosion rates. ESurf-D https://doi.org/10.5194/esurf-2021-7
 
-3.	***Kipkemoi, I.**, **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands.
+3.	***Kipkemoi, I.**, **Michaelides, K.**, Singer, M.B., Rosolem, R. (in review) Climatic expression of rainfall on soil moisture dynamics in drylands. HESS-D https://doi.org/10.5194/hess-2021-48
 
 4.	Singer, M.B., Grieve, S.W.D., ***Chen, S-A.**, and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. _In revision_.
 

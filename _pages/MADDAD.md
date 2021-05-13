@@ -22,7 +22,6 @@ This project is developing a mobile phone app to deliver water status forecasts 
 
 [Chris Preist](http://www.bris.ac.uk/engineering/people/chris-w-preist/index.html)<br> 
 [Daniel Shien](http://www.bristol.ac.uk/engineering/people/daniel-schien/) <br> 
-[Dann Mitchell](http://www.bristol.ac.uk/geography/people/dann-m-mitchell/overview.html)<br> 
 [Rafael Rosolem](http://www.bristol.ac.uk/engineering/people/rafael-rosolem/overview.html)<br>
 
 **Cardiff University**
