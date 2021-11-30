@@ -9,7 +9,7 @@ header:
 excerpt: "Here is a list of publications by the research group."
 ---
 
-#### Supervised PhD or MSc student and postdoc work denoted by *. 
+#### Supervised PhD or MSc student and postdoc work denoted by * and members of the group are in bold. 
 
 
 37.	*Adloff, M., Singer, M.B., ***MacLeod, D.A.**, **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Sustained water storage in East African drylands dominated by seasonal rainfall extremes. _In review_
