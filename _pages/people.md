@@ -31,20 +31,23 @@ excerpt: "Current and past group members"
 [David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
-[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate, funded by [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/) DRIER Project (based at Cardiff University)
+[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br> (based at Cardiff University)
+
+![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
+[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br> (based at Cardiff University)
 
 
 ## Current PhD Students 
 #### (Katerina's role in parentheses)
 
 <br>
+![Katherine Cocking](/assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
+[Katherine Cocking]({% link _people/cocking.md %}), PhD (Co-Supervisor), Cardiff University Scholarship <br>
+**Thesis: Impacts of projected future climate change in the Horn of Africa drylands** (_2021-_)
+
 ![Isaac Kipkemoi](/assets/images/people/Kipkemoi.jpg){:class="img-responsive"}<br>
 [Isaac Kipkemoi]({% link _people/kipkemoi.md %}), PhD (Primary Supervisor), Kenyan Government Scholarship <br>
 **Thesis: Detecting signatures of drought in vegetation of East Africa** (_2018-_)
-
-![Shiuan-An Chen](/assets/images/people/Chen.jpg){:class="img-responsive"}<br>
-[Shiuan-An Chen]({% link _people/chen.md %}), PhD (Primary Supervisor) <br>
-**Thesis: Climatic controls on river topography** (_2016-_)
 
 ![Tamsin Lockwood](/assets/images/people/Lockwood.jpg){:class="img-responsive"}<br>
 [Tamsin Lockwood]({% link _people/lockwood.md %}), PhD (Primary Supervisor, taken over from Jim Freer in 2019) <br>
@@ -56,6 +59,10 @@ excerpt: "Current and past group members"
 
    
 ## Past Graduate Students (PhD and Masters)
+
+![Shiuan-An Chen](/assets/images/people/Chen.jpg){:class="img-responsive"}<br>
+[Shiuan-An Chen]({% link _people/chen.md %}), PhD (Primary Supervisor) <br>
+**Thesis: Climatic controls on river topography** (_2016-2021_)
 
 [Eleanor Hansford](https://www.linkedin.com/in/eleanorhansford/?originalSubdomain=uk), MSc (Primary Supervisor) <br> 
 **Thesis: Recent precipitation changes in East Africa and their relation to groundwater** (_2018-19_)

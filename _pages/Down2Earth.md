@@ -10,7 +10,7 @@ excerpt: 'Translation of climate information into multilevel decision support fo
 tags:
 ---
 
-[Down2Earth](https://cordis.europa.eu/project/id/869550) is an EU H2020 6.7M Euro Project (2020-24) involving 17 partner institutions across the UK, EU and East Africa.
+[Down2Earth](http://down2earthproject.org/) is an EU H2020 6.7M Euro Project (2020-24) involving 14 partner institutions across the UK, EU and East Africa (8 countries).
 
 The overall lead project PI is [Michael Singer](https://singer.eri.ucsb.edu/people/singer/) at Cardiff University.
 
