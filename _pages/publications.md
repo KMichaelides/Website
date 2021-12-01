@@ -12,7 +12,7 @@ excerpt: "Here is a list of publications by the research group."
 #### Supervised PhD or MSc student and postdoc work denoted by * and members of the group are in bold. 
 
 
-37)	*Adloff, M., Singer, M.B., MacLeod, D., Michaelides, K., Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Sustained water storage in East African drylands dominated by seasonal rainfall extremes. _In review_
+37)	*Adloff, M., Singer, M.B., MacLeod, D., **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Sustained water storage in East African drylands dominated by seasonal rainfall extremes. _In review_
 
 36)	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. Global analysis of short- versus long-term drainage basin erosion rates. ESurf-D https://doi.org/10.5194/esurf-2021-7 _In review_
 
