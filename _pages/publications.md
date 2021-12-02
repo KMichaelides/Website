@@ -14,7 +14,7 @@ excerpt: "Here is a list of publications by the research group."
 
 37)	*Adloff, M., Singer, M.B., **MacLeod, D.**, **Michaelides, K.**, Mehrnegar, N., ***Hansford, E.**, Funk, C., Mitchell, D.  Sustained water storage in East African drylands dominated by seasonal rainfall extremes. _In review_
 
-36)	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. Global analysis of short- versus long-term drainage basin erosion rates. ESurf-D https://doi.org/10.5194/esurf-2021-7 _In review_
+36)	***Chen, S-A.**, **Michaelides, K.**, Singer, M.B., Richards, D. Exploring climatic and anthropogenic controls on short- versus long-term erosion rates globally. _Earth Surface Dynamics - D_ https://doi.org/10.5194/esurf-2021-7 _In review_
 
 35)	***Kipkemoi, I.**, **Michaelides, K.**, Singer, M.B., Rosolem, R. Climatic expression of rainfall on soil moisture dynamics in drylands. _In review_
 
