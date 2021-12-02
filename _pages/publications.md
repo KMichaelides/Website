@@ -20,7 +20,7 @@ excerpt: "Here is a list of publications by the research group."
 
 34)	Singer, M.B., Grieve, S.W.D., ***Chen, S-A.**, and **Michaelides, K.** Climatic signatures within the world’s drainage basin morphometrics. _In revision_
 
-33) ***Rigby, J.M.**, Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** Exploring the Climate andWeather Services Ecosystem in the Greater Horn of Africa through Practitioner Interviews. _In review_
+33) ***Rigby, J.M.**, Yohannis, M.A., Preist, C., Singer, M.B., Waema, T.M., Wausi, A.N., **Michaelides, K.** Exploring the climate and weather services ecosystem in the Greater Horn of Africa through practitioner interviews. _In review_
 
 32) Singer, M.B., ***Asfaw, D.T.**, Rosolem, R, Cuthbert, M.O., Miralles, D.G., **MacLeod, D.**, *Quichimbo, E.A., **Michaelides, K.** (2021) Hourly potential evapotranspiration at 0.1° resolution for the global land surface from 1981-present. _Scientific Data_ 8: 224, https://doi.org/10.1038/s41597-021-01003-9  
 

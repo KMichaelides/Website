@@ -22,7 +22,7 @@ excerpt: "Current and past group members"
 ## Current Postdocs
 
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
-[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/) DRIER Project (_2020-22_) <br>
+[Dagmawi Asfaw]({% link _people/asfaw.md %}), Research Associate (Main Advisor), funded by [The Royal Society](https://royalsociety.org/grants-schemes-awards/grants/challenge-led-grants/) DRIER Project (_2020-23_) <br>
 
 ![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
 [Jacob Rigby]({% link _people/rigby.md %}), Research Assoicate (Main Advisor), funded by GCRF Translational Award [GCRF](https://www.ukri.org/research/global-challenges-research-fund/) MAD DAD Project (_2020-22_) <br>
@@ -31,10 +31,10 @@ excerpt: "Current and past group members"
 [David MacLeod]({% link _people/macleod.md %}), Senior Research Assoicate (Main Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br>
 
 ![Andrés Quichimbo](/assets/images/people/Quichimbo.jpg){:class="img-responsive"}<br>
-[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br> (based at Cardiff University)
+[Andrés Quichimbo]({% link _people/quichimbo.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
 ![Manuel Rios Gaona](/assets/images/people/Rios.jpg){:class="img-responsive"}<br>
-[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2020-23_) <br> (based at Cardiff University)
+[Manuel Rios Gaona]({% link _people/rios.md %}), Research Associate (co Advisor), funded by EU Horizon 2020 Project Down2Earth (_2021-23_) <br> (based at Cardiff University)
 
 
 ## Current PhD Students 
