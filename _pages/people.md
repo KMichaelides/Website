@@ -13,7 +13,7 @@ excerpt: "Current and past group members"
 
 
 
-## Research Group Leader
+## Research Group Leader<br>
 
 ![Katerina Michaelides](/assets/images/people/Michaelides.jpg){:class="img-responsive"}<br>
 [Katerina Michaelides]({% link _people/Michaelides.md %})
