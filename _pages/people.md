@@ -8,12 +8,8 @@ header:
   overlay_image: /assets/images/Israel_deadsea.jpg
 excerpt: "Current and past group members"
 ---
-<image src="/assets/images/Group_photo_4_2_22_vox.jpg" alt="group">
-<figcaption>Group at VOX coaching session 4th Feb 2022.</figcaption>
 
-
-
-## Research Group Leader<br>
+## Research Group Leader
 
 ![Katerina Michaelides](/assets/images/people/Michaelides.jpg){:class="img-responsive"}<br>
 [Katerina Michaelides]({% link _people/Michaelides.md %})
@@ -91,6 +87,9 @@ Rebecca Harrison, PhD (Primary Supervisor) <br>
 
 Gareth Martin, PhD (Primary Supervisor) <br>
 **Thesis: Investigating the effects of hillslope-channel coupling on sediment transport in semi-arid areas.** (_2001-2005_)
+
+<image src="/assets/images/Group_photo_4_2_22_vox.jpg" alt="group">
+<figcaption>Group at VOX coaching session 4th Feb 2022.</figcaption>
 
 
 
