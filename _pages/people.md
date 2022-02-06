@@ -13,6 +13,7 @@ excerpt: "Current and past group members"
   <figcaption>Group at VOX coaching session 4th Feb 2022</figcaption>
 </figure>
 
+
 ## Research Group Leader
 
 ![Katerina Michaelides](/assets/images/people/Michaelides.jpg){:class="img-responsive"}<br>
