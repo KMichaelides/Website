@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Israel_deadsea.jpg
+  overlay_image: /assets/images/Group_photo_4_2_22_vox.jpg
 excerpt: "Current and past group members"
 ---
 
