@@ -5,9 +5,16 @@ permalink: /people/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Group_photo_4_2_22_vox.jpg
+  overlay_image: /assets/images/Israel_deadsea.jpg
 excerpt: "Current and past group members"
 ---
+
+## Current Research Group Photo!
+
+<figure>
+  <image src>"/assets/images/Group_photo_4_2_22_vox.jpg" 
+  <figcaption>Group at VOX coaching session 4th Feb 2022</figcaption>
+</figure>
 
 ## Research Group Leader
 
