@@ -8,9 +8,8 @@ header:
   overlay_image: /assets/images/Israel_deadsea.jpg
 excerpt: "Current and past group members"
 ---
-
 <figure>
-  <image src>"/assets/images/Group_photo_4_2_22_vox.jpg" 
+  <image src="/assets/images/Group_photo_4_2_22_vox.jpg">
   <figcaption>Group at VOX coaching session 4th Feb 2022</figcaption>
 </figure>
 
